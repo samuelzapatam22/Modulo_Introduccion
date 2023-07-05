@@ -21,9 +21,11 @@ Algoritmo Datos_Personales
 		leer Documento
 	FinSi
 	
-	mostrar "Su nombre es " Nombre
-	mostrar "su/s Apellidos son " Apellidos
+	mostrar "Tu nombre es " Nombre
+	mostrar "Tu/s Apellidos son " Apellidos
 	mostrar "eres de genero " Genero
 	mostrar "Tienes " Edad " Años"
-	mostrar "su numero de documento es " Documento
+	mostrar "Tu numero de documento es " Documento
 FinAlgoritmo
+
+
